@@ -2,7 +2,7 @@
 
 Meu nome é RainhaDoroblox/Lucas
 
-- Estou estudando ma Alura
+- Estou estudando ma [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem javaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -12,4 +12,4 @@ Meu nome é RainhaDoroblox/Lucas
 
 @LucasGabrielMachadoSilva
 
-
+![](https://tenor.com/n7u4Es16GRW.gif)
