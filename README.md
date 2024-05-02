@@ -12,4 +12,4 @@ Meu nome é RainhaDoroblox/Lucas
 
 @LucasGabrielMachadoSilva
 
-![](https://tenor.com/n7u4Es16GRW.gif)
+![](https://media1.tenor.com/m/kt5qWH1Q21YAAAAC/melanie-martinez-heart.gif)
